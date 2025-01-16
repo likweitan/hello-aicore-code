@@ -1,7 +1,7 @@
-name: ci
-
 env:
-  DOCKERHUB_USERNAME: "likweitan@gmail.com"
+  DOCKERHUB_USERNAME: "likweitan"
+  
+name: ci
 
 on:
   push:
